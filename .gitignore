@@ -1,0 +1,13 @@
+venv/
+playground/
+output/
+data/
+**/__pycache__/**
+.idea/
+*.txt
+*.out
+exp_ckpt/
+exp_logs/
+meta/
+*.png
+docs/
