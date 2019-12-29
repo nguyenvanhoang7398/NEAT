@@ -1,6 +1,9 @@
-#Neural Side Effect Discovery from User Credibility and Experience-Assessed Online Health Discussions
+# Neural Side Effect Discovery from User Credibility and Experience-Assessed Online Health Discussions
 
 Full workshop paper is available [here](https://www.aclweb.org/anthology/W18-5602/)
+
+The neural architecture of our proposed NEAT. The blue boxes denoted general text encoders with attention. The highlighted words in red denoted the text segments that are being attended by the encoder. The yellow oval denotes contextual information of User Experience (UE), Credibility Weight (CW) and Cluster Attention (CA).
+![alt text](neat.png)
 
 ## Getting started
 Download People-On-Drugs dataset [here](https://www.mpi-inf.mpg.de/impact/peopleondrugs/), unzip and move to `data/pod`
